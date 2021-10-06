@@ -1,1 +1,1 @@
-# Placeholder for we site
+# Placeholder for web site
