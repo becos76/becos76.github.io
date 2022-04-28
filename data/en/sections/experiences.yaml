@@ -1,0 +1,170 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+#Cisco
+- company:
+    name: Cisco
+    url: "https://cisco.com"
+    location: We all know Cisco, right? @ CX EMEAR South Architectures, Greece
+    overview: Initially joined the Professional Services Management and Automation Systems Team of the Software and Automation for Service Providers division in Krakow CX delivery center, as a contractor and then was converted to a full time employee. Finally, moved to the Professional Services Datacenter & Cloud Team for a short period until I joined the CX EMEAR South Architectures Team in Greece.
+  positions:
+  - designation: Consutling Engineer
+    start: March 2022
+    
+    responsibilities:
+    - Full project lifecycle delivery of Cisco ACI product
+    - Exposure to ACI automation
+  
+  - designation: Consutling Engineer
+    start: Dec 2021
+    end: Feb 2022 | DC & Cloud Team @ Krakow CX-C, Poland
+    responsibilities:
+    - Full project lifecycle delivery of Cisco ACI product
+    - Exposure to ACI automation
+  - designation: Software Consutling Engineer
+    start: Aug 2020
+    end: Nov 2021 | SP Automation Team @ Krakow CX-C, Poland
+    responsibilities:
+    - Full project lifecycle delivery of the Prime suite of products for various Service Providers and Enterprise clients in the EMEAR region
+    - Subject Matter Expert, consulting and optimization for Prime Infrastructure, Prime Network, Prime Performance Manager, Prime Provisioning and EPNM products
+    - Exposure to Network Automation, Python and Network Services Orchestrator (NSO) product
+    - Participated in the delivery of Crosswork Network Automation products 
+    - Delivery of Smart Software Manager On-Prem (SSM On-Prem) product
+    - Exposure to SD-WAN technology 
+    - Mentoring team members and assisting in their ramp-up process
+  - designation: Network Consutling Engineer (Contract)
+    start: Feb 2019
+    end: Jul 2020 | SP Automation Team @ Krakow CX-C, Poland
+    responsibilities:
+    - Full project lifecycle delivery of Prime suite of products for various Service Providers and Enterprise clients in the EMEAR region
+    - Subject Matter Expert, consulting and optimization for Prime Infrastructure, Prime Network, Prime Performance Manager, Prime Provisioning and EPNM products
+    - Mentoring team members and assisting in their ramp-up process
+#UniSystems
+- company:
+    name: UniSystems
+    url: "https://unisystems.gr"
+    location: ICT systems integrator in the European markets @ Athens, Greece
+    overview: Main duties as a member of the Networking and Security Professional Services team include documentation, implementation, training and support for all projects involved.
+  positions:
+  - designation: Senior Professional Services Engineer
+    start: Apr 2018
+    end: Jan 2019
+    responsibilities:
+    - Cisco 6800/Nexus 5k network audits and optimization based on MPLS, L3VPN and BGP technologies
+    - Cisco ISE installations, verifications, and improvements
+    - Participated in Citrix SDWAN WANOP appliances deployment
+    - Technical Lead on Cisco Nexus 9k deployment for an EU institution
+    - Various projects and managed services support on routing, switching, security and cloud services
+#Fraport
+- company:
+    name: Fraport Greece
+    url: "https://www.fraport-greece.com/"
+    location: Airport operations company, member of Fraport Group @ Athens, Greece
+    overview: Joined the IT&T department of Fraport’s start-up subsidiary in Greece as a people leader for the first time in my career.
+  positions:
+  - designation: Systems Infrastructure Manager
+    start: Nov 2016
+    end: Mar 2018
+    responsibilities:
+    - Managing the operation’s teams, both 1st and 2nd level, of 14 Greek airports and the company’s Headquarters building
+    - Responsible for the network infrastructure, the compute resources and the ACS/CCTV systems of the whole company footprint
+    - Leading the 1st Level Team consisting of one helpdesk supervisor, 9 full time field engineers and 50 outsourced field engineers
+    - Leading the 2nd Level Team consisting of 6 engineers
+    - Responsible for the procurement, design, deployment and operation of all systems and services of the IT&T infrastructure section
+    - Responsible of the procurement and set-up of Level 1 helpdesk application and team, and of the implementation of ITIL practices in IT operations
+#Intracom2  
+- company: 
+    name: Intracom Telecom
+    url: "https://www.intracom-telecom.com"
+    location: Global telecom systems and solutions vendor @ Peania, Greece
+    overview: Main duties as a member of the Professional Services team include documentation, implementation, training and support for all projects involved.
+  positions:
+  - designation: Senior Network Integration Engineer
+    start: Feb 2015
+    end: Oct 2016
+    responsibilities:
+    - Technical Team Leader in several projects for a major Greek enterprise involving full network infrastructure re-design and deployment to support Wireless, IP Telephony and Data Centre services
+    - Rollout of Cisco Prime Infrastructure and MSE for a 300+ Wireless APs
+    - Upgrade of Cisco Prime Provisioning software supporting VPLS metro services
+    - Deployment of 30+ Cisco 37xx Access Points with 2x2504 WLCs
+    - Deployment of HP ProVision and Comware datacenter switches in high availability
+#LGI
+- company: 
+    name: Liberty Global
+    url: "https://www.libertyglobal.com/"
+    location: The world’s largest :) international TV and broadband company @ Amsterdam, Netherlands
+    overview: Started initialy as a member of the advanced support team, to move to the engineering team of a global backbone network interconnecting all affiliates.
+  positions:
+  - designation: Senior Network Engineer
+    start: Apr 2014
+    end: Jan 2015
+    responsibilities:
+    - Involvement into various integration projects into the core MPLS network and its affiliate’s access networks
+    - MVNO deployment and integration into affiliate’s networks
+    - NA4 Romania B2B migration to meet company wide networking standards
+  - designation: Senior Network Support Engineer
+    start: Apr 2012
+    end: Mar 2014
+    responsibilities:
+    - Day to day operation and incident support on a Juniper/Cisco based international network
+    - Implementation of new BGP PNI peerings with providers globally 
+    - Threat Management with Arbor Peakflow TMS Solution
+    - Exposure to Checkpoint Firewalls, Radware and BIG-IP F5 Loadbalancers
+    - Improvements to the in-house NMS Applications
+    - Cisco Nexus / Cat 6500 upgrades and migrations
+#Intracom
+- company: 
+    name: Intracom Telecom
+    url: "https://www.intracom-telecom.com"
+    location: Global telecom systems and solutions vendor @ Peania, Greece
+    overview: Main duties as a member of the Professional Services team include documentation, implementation, training and support for all projects involved.
+  positions:
+  - designation: Senior Network Integration Engineer
+    start: Oct 2007
+    end: Mar 2012
+    responsibilities:
+    - Participated in the implementation of Juniper MX960 routers as BRAS aggregation devices for a major Greek ISP
+    - Integrated Cisco ISC 5.2 with Metro Ethernet network to provision customer services for a large Greek ISP. The topology used was dual attached rings of Cisco ME3400 switches and C7600 and ASR9000 routers
+    - Participated in the deployment of Cisco SCE platform for a large Greek ISP
+    - Involved in various Network Management projects including integration and support of Cisco’s LMS, CTM and ISC products for SP clients
+    - Involved in integration projects of HP NNM Network Node Manager Product with Wimax Network Elements
+    - Participated in the implementation and deployment team of Intracom’s IP-TV product “fs|cdn” for their clients in EMEAR
+#Self
+- company: 
+    name: ByteWise Solutions
+    url: "https://www.legalzoom.com/sites/lz.com/files/articles/articles_of_dissolution_-_how_to_close_a_business.jpg"
+    location: Self-owned IT services company @ Piraeus, Greece
+    overview: In tandem with my daily job, I established a self-owned company in order to provide IT services to small businesses.
+  positions:
+  - designation: Freelance IT Contractor
+    start: Sep 2002
+    end: Sep 2007
+    responsibilities:
+    - Design and Implementation on various projects for SMBs involving networking, systems and database products 
+    - Integration and deployment of a custom PBX solution based on the open source Asterisk PBX 
+    - Providing 2nd Level IT Support and Administration for SMBs 
+#Petrolla
+- company: 
+    name: Hellenic Petroleum
+    url: "https://www.helpe.gr/"
+    location: One of the leading energy groups in South East Europe @ Apropyrgos, Greece
+    overview: Initially employed by Petrola Hellas which merged on 01/10/2003 with Hellenic Petroleum. Joined the IT Department of Elefsis refinery and moved to the HQ refinery in Aspropyrgos.
+  positions:
+  - designation: Database, Nework and Systems Administrator
+    start: Apr 2002
+    end: Sep 2007
+    responsibilities:
+    - Lead a companywide Microsoft Active Directory Forest project consisting of 6 domains
+    - Administered over 50 production servers including MS Exchange, Active Directory, ISA and Microsoft Cluster servers
+    - Implemented a NMS Solution based on HP NNM and CiscoWorks applications
+    - Administered company corporate LAN, WAN and Remote Access VPN networks
+    - Administered HP-UX Oracle and MS SQL database clusters

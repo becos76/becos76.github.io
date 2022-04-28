@@ -1,0 +1,176 @@
+# section information
+section:
+  name: Projects and Memoirs
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Freelancing
+  filter: "freelance"
+- name: Technical Trainings
+  filter: "instructor"
+- name: Internships
+  filter: "intern"
+- name: Voluntary
+  filter: "volunteer"
+
+# your projects
+projects:
+#Freelancer
+  
+- name: Databank S.A. 
+  logo: "images/case.png"
+  role: Implementation Engineer (Sub-contract)
+  timeline: "2003"
+  summary: Reorganization of the company’s network through the design and implementation of a Cisco PIX firewall system to provide support for several DMZs and remote connections through leased lines. Implementation of a MS SQL Cluster to support the company’s central database using MCS and IBM’s SAN.
+  tags: ["freelance","Cisco PIX", "MS SQL Server", "network re-design", "IBM Servers & Storage"]
+
+- name: Databank S.A. 
+  logo: "images/case.png"
+  role: Implementation Engineer (Sub-contract)
+  timeline: "2005"
+  summary: Reconfiguration of the firewall due to the company’s relocation. Redesign of Internet Access connection to minimize cost.
+  tags: ["freelance","Cisco PIX", "network re-design"]
+- name: Valiant Shipping S.A.
+  logo: "images/ship.png"
+  role: IT Support
+  timeline: "2003 - 2007"
+  summary: Provision of administration and technical support services for the company’s network and desktops. Implementation of a new Linux server to support the **TELIX** application. Installation of a new aDSL Internet access connection. Twenty client's migration from Windows 98 to Windows XP. 
+  tags: ["freelance","IT Support", "Windows", "Linux"]
+- name: Flexnet S.A.
+  logo: "images/case.png"
+  role: Implementation Engineer
+  timeline: "2007"
+  summary: Implementation of a new MS Windows file server. Installation of a new aDSL Internet connection to the company’s network.
+  tags: ["freelance", "Windows", "WAN"]
+- name: GE Medical Systems
+  logo: "images/sw.jpg"
+  role: Network Engineer
+  timeline: "2005"
+  summary: Integration of four (4) new high speed switches in replacement of the old ones in the network.
+  tags: ["freelance", "Cisco LAN switching"]
+- name: Vardalis Gaz
+  logo: "images/pbx.jpg"
+  role: Network Engineer
+  timeline: "2006"
+  summary: Implementation of an IP PBX system based on Asterisk Open Source PBX and VoIP technology to interconnect the three company branch offices. Two offices connecting via aDSL internet links and one office via Wireless.
+  tags: ["freelance", "Asterisk PBX", "VoIP", "WiFi"]
+- name: IBS Ltd.
+  logo: "images/neteng.png"
+  role: Network Engineer (Sub-contract)
+  timeline: "2005 - 2007"
+  summary: Subcontracting in various network projects involving DMVPN implementations for branch offices and network design and implementation.
+  tags: ["freelance", "Cisco DMVPN", "WAN", "design"]
+- name: Wireless Network
+  logo: "images/case.png"
+  role: Implementation Engineer (Sub-contract)
+  summary: Deployment of a Wifi 6 network based on Huawei wireless controllers and 65 indoor access points
+  tags: ["freelance","Wireless","Huawei"]
+
+#Trainings
+- name: Cisco ISE 2.6 Overview and Administration
+  logo: "images/ise.jpg"
+  role: Instructor
+  timeline: "January 2019"
+  summary: This was a 2 day classroom ILT course delivered on behalf of a greek learning institure to 10 students.
+  tags: ["instructor","Cisco ISE", "securitry"]
+- name: Introduction to Junos Operating System
+  logo: "images/junos.png"
+  role: Instructor
+  timeline: "November 2018"
+  summary: This was a 3 day classroom ILT course delivered on behalf of a greek learning institure to 8 students.
+  tags: ["instructor","JunOS", "routing"]
+- name: Basic HPE Networking (Comware/ProVision switches)
+  logo: "images/hpe.png"
+  role: Instructor
+  timeline: "September 2016"
+  summary: This was a 2 day hands on Transfer of Information training delivered as part of a project delivery with Intracom Telecom. The focus was on basic switching functionality on both Comware and ProVision switch families.
+  tags: ["instructor","HPE", "comware","provision","R&S"]
+- name: O&M Training from Cisco Switches to HPE Comware
+  logo: "images/hpe.png"
+  role: Instructor
+  timeline: "December 2015"
+  summary: This was a 2 day hands on Transfer of Information training delivered as part of a project delivery with Intracom Telecom. The focus was on operation and maintenance of Comware switches compared to Cisco ones.
+  tags: ["instructor","HPE", "comware","R&S"]
+- name: Juniper MX Series Operations Training
+  logo: "images/junos.png"
+  role: Instructor
+  timeline: "March 2011"
+  summary: This was a 2 day hands on Transfer of Information training delivered as part of a project delivery with Intracom Telecom. The focus was in basic SP routing.
+  tags: ["instructor","JunOS", "SP","routing"]
+- name: Cisco Service Control Engine (SCE) & Policy Enforcement
+  logo: "images/cisco.png"
+  role: Instructor
+  timeline: "August 2010"
+  summary: This was a 2 day hands on Transfer of Information training delivered as part of a project delivery with Intracom Telecom.
+  tags: ["instructor","Cisco", "packet inspection","policy engine"]
+- name: CiscoWorks LAN Management Solution (LMS)
+  logo: "images/cisco.png"
+  role: Instructor
+  timeline: "Septemer 2010"
+  summary: This was a single day hands on Transfer of Information training delivered as part of a project delivery with Intracom Telecom.
+  tags: ["instructor","Cisco", "NMS"]
+- name: Cisco Security Device Manager (SDM)
+  logo: "images/cisco.png"
+  role: Instructor
+  timeline: "Septemer 2010"
+  summary: This was a single day hands on Transfer of Information training delivered as part of a project delivery with Intracom Telecom.
+  tags: ["instructor","Cisco", "security"]
+- name: Cisco IP Solution Centre (ISC) 5.2
+  logo: "images/cisco.png"
+  role: Instructor
+  timeline: "March 2010"
+  summary: This was a 3 day hands on Transfer of Information training delivered as part of a project delivery with Intracom Telecom. The focus was on provisioning metro ethernet services (VPLS/VPWS)
+  tags: ["instructor","Cisco", "metro ethernet","provisioning"]
+
+#Internships
+- name: Petrola Hellas S.A.
+  role: IT Support Technician
+  timeline: "Jul 1996 - Aug 1996"
+  summary: Joined as a summer intern providing 1st level support for Windows Desktops and company applications.
+  tags: ["intern","windows", "desktop support"]
+- name: Petrola Hellas S.A.
+  role: Junior IT Administrator
+  timeline: "Jul 1997 - Aug 1997"
+  summary: Joined as a summer intern and started administering the Windows Server infrastructure of the company.
+  tags: ["intern","windows", "administration"]
+- name: Petrola Hellas S.A.
+  role: Junior IT Administrator
+  timeline: "Jul 1998 - Aug 1998"
+  summary: Joined as a summer intern to continue administering the Windows Server infrastructure of the company. This time, I developed a company wide phone book application using MS Access database and MS Active Server Pages frontend. Pretty cool eh?
+  tags: ["intern","windows", "administration", "database", "web development"]
+- name: Centre for Automation of Combat Systems (KASMN) - Greek Navy
+  role: Software Developer
+  timeline: "Nov 2000 - Dec 2001"
+  summary: While on my military service, I contributed to the development of an X Window System application for the communication of tactical data between battle ships using the C Programming Language. On the side, I was administering four end stations running RedHat Linux 6.1 supporting the development of the above application. DNS, NFS, NIS and SAMBA server administration.
+  tags: ["intern","linux", "administration", "C languge", "programming"]
+
+
+#Volunteer
+- name: Programming in C (Labs)
+  logo: /images/cLabs.png
+  role: Lab Demonstrator
+  timeline: "Oct 1997 - Dec 1997"
+  summary: During my Bachelor's degree, I was assisting first year students in the C Programming Labs
+  tags: ["volunteer", "programming", "C Language"]
+- name: Broadbandcity
+  logo: 
+  role: Wireless Network Designer
+  timeline: "Sep 2004 - Dec 2004"
+  summary: Participated in the design of a public wireless hotspot for the National Hellenic Research Foundation
+  tags: ["volunteer", "wireless", "design"]
+
+
+
+
+
+
+
+

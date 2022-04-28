@@ -1,0 +1,50 @@
+# section information
+section:
+  name: Achievements
+  id: achievements
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  #hideTitle: true
+
+# Your achievements achievements
+achievements:
+
+- title: Data Telecommunications and Networks
+  image: /images/msc.png
+  summary: Received Masters of Science (MSc) in Data Telecommunications and Networks from the University of Salford (UK) in 1999.
+
+- title: Computer Systems Engineering
+  image: images/bsc.jpg
+  summary: Received Bachelors of Science (BSc) in Computer Systems Engineering from the University of Manchester, Institute of Science and Technology (UMIST,UK) in 1998.
+
+- title: JNCIS-SP
+  image: images/jncis-sp.png
+  summary: Obtained Juniper Networks Certified Specialist, Service Provider Routing & Switching (JNCIS-SP) on 2 December 2011.
+
+
+- title: JNCIP-SP
+  image: images/jncip-sp.png
+  summary: Obtained Juniper Networks Certified Professional, Service Provider Routing & Switching (JNCIP-SP) on 26 September 2013.
+
+
+- title: ITIL Foundation
+  image: images/itil.png
+  summary: ITIL Foundation Certificate in IT Service Management - October 2014
+
+- title: ACCP
+  image: images/accp.png
+  summary: Obtained Aruba Certified ClearPass Professional (ACCP) V6.5 on 12 October 2018.
+
+
+- title: Cisco Live 2012 
+  image: images/cl2012.jpg
+  summary: Conference Speaker for the ITMCCS-2224 Metro Services @ a Click - London 2012
+
+
+- title: Cisco Live 2021 
+  image: images/cl2021.jpg
+  summary: Lab Proctor for the HOLOPS-1806 Network Automation Journey with Cisco NSO - Virtual April 2021
+
+

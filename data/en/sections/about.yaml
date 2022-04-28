@@ -1,0 +1,84 @@
+# section information
+section:
+  name: At a Glance
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: false
+  template: sections/about.html
+
+# your designation
+designation: Network Engineer
+# your company information
+company:
+  name: Cisco (.ıIı..ıIı.)
+  url: "https://www.cisco.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am a passionate Network Engineer with a solid technical background of more than 20 years and a proven record in implementing and supporting both Enterprise and Service Provider network projects and technology. The additional knowledge acquired on computer systems, databases, scripting languages and software applications, adds to the strong analytical skills gained so far and expand on the solid commitment to customer satisfaction via successful project delivery.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "mkaliotis@gmail.com"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://linkedin.com/in/becos"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/mkaliotis"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/becos76"
+
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+badges:
+- type: soft-skill-indicator
+  name: Communication
+  percentage: 100
+  color: blue
+- type: soft-skill-indicator
+  name: Adaptability
+  percentage: 100
+  color: yellow
+- type: soft-skill-indicator
+  name: Problem Solver
+  percentage: 100
+  color: orange
+
+- type: certification
+  url: "https://www.credly.com/badges/c19c9ef8-2a23-47f4-91eb-bc1a3083f1f1"
+  badge: "https://images.credly.com/size/680x680/images/77926150-00bf-4908-8c11-5841aa2456e7/Green_Belt-Professional_Services_Engineer.png"
+- type: certification
+  name: DevNet Class 2020
+  url: "https://www.credly.com/badges/949e0ea2-de84-4604-884e-3c85c4a9153d"
+  badge: "https://images.credly.com/size/170x170/images/4d054f39-f581-4442-8923-c5cd32720ef6/Classof2020-badge-600x600.png"
+- type: certification
+  name: DevNet Associate
+  url: "https://www.credly.com/badges/81f22f00-4cc3-42f3-81f3-8bd90a63566c"
+  badge: "https://images.credly.com/size/340x340/images/e21e94f7-feec-4717-9687-ac150b213f64/Cisco_DevNetAsst_600.png"
+- type: certification
+  name: CCNP Routing and Switching
+  url: "https://www.credly.com/badges/2214239f-a2fe-44f6-ad58-8ae42188f7f9"
+  badge: "https://images.credly.com/size/680x680/images/39ceb13c-f278-44d7-aad3-61180c680045/cisco_ccdp.png"
+- type: certification
+  name: CCNP SP
+  url: "https://www.credly.com/badges/b21efdb5-3b8c-41a4-ade0-28d0b3faaf55"
+  badge: "https://images.credly.com/size/340x340/images/e3ca7cd2-3de6-402d-9f66-fe4f7f0b9c34/cisco_ccnp_serviceprovider.png"
+- type: certification
+  name: CCDP
+  url: "https://www.credly.com/badges/e29fbd4b-edaa-485b-8fdf-f07f166e1106"
+  badge: "https://images.credly.com/size/340x340/images/706353b7-3a49-4e7b-80d6-ce80a597f580/cisco_ccnp_R_26S.png"
+
+#

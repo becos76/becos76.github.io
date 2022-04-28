@@ -1,0 +1,43 @@
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: Network Management
+  logo: "/images/nms.jpg"
+  summary: "Professional experience in various vendor's NMS products including Cisco Prime and EPNM, HPE OpenView NNM and IMC, as well as MRTG and open source products like Cacti and Nagios."
+- name: Service Provider
+  logo: "/images/sp.png"
+  summary: "Highly skilled in design, implementation and operation of SP netwroks. Products include Cisco 76xx and ASR routers and Juniper MX familly. Experience in ISIS, LDP, MPLS, BGP protocols and MP-BGP, L3VPN, VPLS services. Beginner level in Segment Routing"
+- name: Enterprise Routing & Switching
+  logo: "/images/lan.jpg"
+  summary: "Highly skilled in design, implementation and operation of enterprise networks. Products include Cisco Catalyst switches and ISR routers as well as HPE's portfolio." 
+  url: "https://golang.org/"
+- name: Virtualization
+  logo: "/images/qemu.png"
+  summary: "VMWare ESXi, Qemu KVM, Oracle VirtualBox. Experience comes mainly from running simulation LABs for network related products (HW or SW) and technologies. Frequently used products: CML, EVE-NG, PyVXR."
+  url: "https://kubernetes.io/"
+- name: Network Automation
+  logo: "/images/auto.png"
+  summary: "Beginner level in Python and network automation libraries like Netmiko and NAPALM. Exposure to Ansible and Terraform. Good grasp of YANG data modeling, structured data presentation YAML/JSON and API consumption."
+  url: "https://github.com/networktocode/awesome-network-automation"
+- name: Containerisation
+  logo: "/images/k8s.png"
+  summary: "Beginner level in docker and kubernetes environments. Good grasp of microservices concepts."
+  url: "https://kubernetes.io/"
+- name: DataCentre
+  logo: "/images/dc.png"
+  summary: "Deployment and operation of multi-vendor HW servers and SAN systems. Experience in Cisco Nexus product familly. Exposure to VMWare Vcentre virtualization environment."
+- name: Security
+  logo: "/images/sec.png"
+  summary: "Exposure in Cisco ASA, Fortigate and Checkpoint Firewalls. Design and implementation of Cisco ISE security solution."
+- name: Databases
+  logo: "/images/db.png"
+  summary: "Past experience in administering highly available Oracle Databases in various Unix/linux flavours."

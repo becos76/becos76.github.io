@@ -1,0 +1,144 @@
+# section information
+section:
+  name: Trainings
+  id: accomplishments
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  #hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: Implementing Cisco Application Centric Infrastructure (DCACI)
+  timeline: "March 2022"
+  organization:
+    name: Cisco
+    url: https://www.cisco.com/c/en/us/training-events/training-certifications/training/training-services/courses/implementing-cisco-application-centric-infrastructure-dcaci.html
+  #courseOverview: 
+  certificateURL: "files/dcaci.pdf"
+
+- name: Ultimate AWS Certified Cloud Practicioner - 2022
+  timeline: "February 2022"
+  organization:
+    name: Udemy
+    url: https://www.udemy.com/course/aws-certified-cloud-practitioner-new/
+  #courseOverview: 
+  certificateURL: "files/uccp.pdf"
+
+
+- name: Terraform for Beginners
+  timeline: "November 2021"
+  organization:
+    name: KodeKloud
+    url: https://kodekloud.com/courses/terraform-for-beginners/
+  #courseOverview: 
+  certificateURL: "files/kk_terra.pdf"
+
+- name: Ansible for the Absolute Beginners
+  timeline: "November 2021"
+  organization:
+    name: KodeKloud
+    url: https://kodekloud.com/courses/ansible-for-the-absolute-beginners-couse/
+  #courseOverview: 
+  certificateURL: "files/kk_ans.pdf"
+
+- name: Docker for the Absolute Beginner
+  timeline: "November 2021"
+  organization:
+    name: KodeKloud
+    url: https://kodekloud.com/courses/docker-for-the-absolute-beginner/
+  #courseOverview: 
+  certificateURL: "files/kk_dock.pdf"
+
+- name: Shell Scripts for Beginners
+  timeline: "November 2021"
+  organization:
+    name: KodeKloud
+    url: https://kodekloud.com/courses/shell-scripts-for-beginners/
+  #courseOverview: 
+  certificateURL: "files/kk_shell.pdf"
+
+- name: GIT for Beginners
+  timeline: "November 2021"
+  organization:
+    name: KodeKloud
+    url: https://kodekloud.com/courses/git-for-beginners/
+  #courseOverview: 
+  certificateURL: "files/kk_git.pdf"
+
+- name: Devops Pre-Requisite
+  timeline: "October 2021"
+  organization:
+    name: KodeKloud
+    url: https://kodekloud.com/courses/devops-pre-requisite-course/
+  #courseOverview: Online, Self-Paced
+  certificateURL: "files/kk_ops.pdf"
+
+- name: Kubernetes for the Absolute Beginners – Hands-on
+  timeline: "June 2021"
+  organization:
+    name: Udemy - KodeKloud
+    url: https://www.udemy.com/course/learn-kubernetes/
+  #courseOverview: Online, Self-Paced
+  certificateURL: "files/kube.pdf"
+
+- name: Developing Applications and Automating Workflows using Cisco Platforms (DEVASC)
+  timeline: "July 2020"
+  organization:
+    name: Cisco
+    url: https://www.cisco.com/c/en/us/training-events/training-certifications/training/training-services/courses/developing-applications-and-automating-workflows-using-cisco-core-platforms-devasc.html
+  #courseOverview: The holder of this credential has a strong foundation in basic network applications using Cisco platforms as a base, and implementing automation workflows across network, security, collaboration, and computing infrastructure. The holder is able to use Cisco Application Programming Interfaces (APIs) and modern development tools.
+  certificateURL: "https://www.credly.com/badges/9df626ba-ddb6-4065-9b85-fd88e0ffe132"
+
+
+- name: Implementing Automation for Cisco Service Provider Solutions (SPAUI)
+  timeline: "July 2020"
+  organization:
+    name: Cisco
+    url: https://www.cisco.com/c/en/us/training-events/training-certifications/training/training-services/courses/implementing-automation-for-cisco-service-provider-solutions-spaui.html
+  #courseOverview: This course covers **YANG** data models and validation tools, **RESTCONF** and **NETCONF** management protocols, model-driven telemetry with **gRPC** and **gNMI**, traffic automation with XR Transport Control (XTC), Secure Shell (SSH)-based automation tools like **NetMiko** and **Ansible**, orchestration provided by **NSO**, **NFV** lifecycle management with **ESC**, and network operations automation with **WAE**.
+  certificateURL: "https://www.credly.com/badges/57dd23e7-7bac-492c-b519-6781e9b55e40"
+
+- name: Introducing Automation for Cisco Solutions (CSAU)
+  timeline: "June 2020"
+  organization:
+    name: Cisco
+    url: https://www.cisco.com/c/en/us/training-events/training-certifications/training/training-services/courses/introducing-automation-for-cisco-solutions-csau.html
+  #courseOverview: This course gives you a broad overview of network automation skills. Through a combination of lecture and hands-on labs, you will learn the fundamentals of automation such as working on **model-driven programmability** solutions with **RESTCONF** and **NETCONF** protocols.
+  certificateURL: "https://www.credly.com/badges/a1d6bc23-e5a5-489d-9d6e-4b09d2de0cc6"
+
+- name: Cisco Prime Performance Manager (CPPERF)
+  timeline: "May 2020"
+  organization:
+    name: Cisco
+    url: 
+  #courseOverview: This course provides you with the knowledge and skills to deploy and use Cisco Prime Performance Manager.
+  certificateURL: "files/cpperf.pdf"
+
+- name: Cisco Network Service Orchestrator (NSO) Essentials for Programmers and Network Architects (NSO201)
+  timeline: "February 2020"
+  organization:
+    name: Cisco
+    url: https://www.cisco.com/c/en/us/training-events/training-certifications/training/training-services/courses/nso-essentials-for-programmers-and-network-architects-nso201.html
+  #courseOverview: This course provides an overview of NSO as a network automation solution, as well as introductions to **NETCONF**, **YANG**, and **XPath**. You will learn about managing devices and creating device templates, service management and service package creation, network element drivers, interfacing with other systems using APIs, configuring and troubleshooting system settings, managing alarms and reporting, configuring NSO for scalability and performance, and capabilities that can be added to Cisco NSO.
+  certificateURL: "files/nso201.pdf"
+
+- name: Programming for Network Engineers (PRNE)
+  timeline: "May 2019"
+  organization:
+    name: Cisco
+    url: https://www.cisco.com/c/en/us/training-events/training-certifications/training/training-services/courses/programming-for-network-engineers-prne.html
+#  courseOverview: This course is designed to equip you with fundamental skills in **Python** programming. Through a combination of lectures and lab experience in simulated network environments, you will learn to use Python basics to create useful and practical scripts with **Netmiko** to retrieve data and configure network devices. Upon completion of this course, you should have a basic understanding of Python, including the knowledge to create, apply, and troubleshoot simple network automation scripts.
+  certificateURL: "files/prne.pdf"
+
+- name: Cisco The Network. Intuitive. Field Engineer. DNAC, SDA and SDWAN
+  timeline: "September 2018"
+  organization:
+    name: Cisco
+
+- name: Aruba ClearPass Essentials
+  timeline: "September 2018"
+  organization:
+    name: HPE

@@ -1,0 +1,23 @@
+# some information about you
+name: "Manolis Kaliotis"
+nickname: "Manolis"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hullo, this is"
+image: "images/avatar.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "mkaliotis(at)gmail(dot)com"
+#  phone: "+0123456789"
+
+# some summary about what you do
+summary:
+  - I am a Yet Another Network Engineer
+  - I am a father of two
+  - I embrace network automation
+  - I am a NetDevOps wannabe in the Cloud
+  - I am fascinated with Kubernetes
+  - I am always hungry
+  - I seek peace of mind
+  - Tell me and I'll forget; show me and I may remember; involve me and I'll understand
+  - Be warned! This is an extensive and very detailed CV...
+
