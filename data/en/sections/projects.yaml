@@ -24,7 +24,26 @@ buttons:
 # your projects
 projects:
 #Freelancer
-  
+- name: Network Migrations
+  logo: "images/nauto.jpg"
+  role: Network Automation Engineer
+  summary: Producing service migration scripts written in Python using the Nornir framework. Services were mainly L2 E-LAN and L2-VPN from IOS-XE to IOS-XR.
+  tags: ["freelance","Python","IOS-XE", "IOS-XR", "L2VPN"]
+
+- name: NetDevOps
+  logo: "images/nauto.jpg"
+  role: Network Automation Engineer
+  summary: Operation and support of a GitLab pipeline in delivering a two-instance NautoBot application for the provisioning and service activation of various network devices and services.
+  tags: ["freelance","GitLab","NautoBot", "Pacemaker", "Zabbix"]
+
+
+- name: Wireless Network
+  logo: "images/wifi.png"
+  role: Implementation Engineer (Sub-contract)
+  timeline: 2020
+  summary: Deployment of a Wifi 6 network based on Huawei wireless controllers and 65 indoor access points
+  tags: ["freelance","Wireless","Huawei"]
+
 - name: Databank S.A. 
   logo: "images/case.png"
   role: Implementation Engineer (Sub-contract)
@@ -68,11 +87,6 @@ projects:
   timeline: "2005 - 2007"
   summary: Subcontracting in various network projects involving DMVPN implementations for branch offices and network design and implementation.
   tags: ["freelance", "Cisco DMVPN", "WAN", "design"]
-- name: Wireless Network
-  logo: "images/case.png"
-  role: Implementation Engineer (Sub-contract)
-  summary: Deployment of a Wifi 6 network based on Huawei wireless controllers and 65 indoor access points
-  tags: ["freelance","Wireless","Huawei"]
 
 #Trainings
 - name: Cisco ISE 2.6 Overview and Administration

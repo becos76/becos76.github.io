@@ -1,5 +1,5 @@
 # Copyright Notice
-copyright: © Copywright 2021 Manolis.
+copyright: © Copywright 2023 Manolis.
 
 # A disclaimer notice for the footer. Make sure you have set "params.footer.disclaimer.enable: true" in your `config.yaml` file.
 disclaimer: "This theme is under MIT license. So, you can use it for non-commercial, commercial, or private uses.
@@ -24,8 +24,8 @@ openGraph:
   url: https://becos76.github.io
 
 customMenus:
-- name: Printable CV
-  url: https://becos76.github.io/printCV
+# - name: Printable CV
+#   url: https://becos76.github.io/printCV
 - name: Blog
   url: https://net4fungr.github.io/
 

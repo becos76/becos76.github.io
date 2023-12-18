@@ -8,14 +8,15 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Network Engineer
+designation: Customer Success Engineer
 # your company information
 company:
-  name: Cisco (.ıIı..ıIı.)
-  url: "https://www.cisco.com"
+  #name: Cisco (.ıIı..ıIı.)
+  name: ≪·Kentik
+  url: "https://kentik.com"
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/resume.pdf"
+#resume: "files/resume.pdf"
 
 # a summary about you
 summary: 'I am a passionate Network Engineer with a solid technical background of more than 20 years and a proven record in implementing and supporting both Enterprise and Service Provider network projects and technology. The additional knowledge acquired on computer systems, databases, scripting languages and software applications, adds to the strong analytical skills gained so far and expand on the solid commitment to customer satisfaction via successful project delivery.'
@@ -57,9 +58,15 @@ badges:
   percentage: 100
   color: orange
 
+
 - type: certification
-  url: "https://www.credly.com/badges/c19c9ef8-2a23-47f4-91eb-bc1a3083f1f1"
-  badge: "https://images.credly.com/size/680x680/images/77926150-00bf-4908-8c11-5841aa2456e7/Green_Belt-Professional_Services_Engineer.png"
+  name: KCNA
+  url: "https://www.credly.com/badges/0f4389fb-464f-4ced-91cf-e66ad517c676"
+  badge: "https://images.credly.com/size/680x680/images/f28f1d88-428a-47f6-95b5-7da1dd6c1000/KCNA_badge.png"
+- type: certification
+  name: AWS Cloud Practicioner
+  url: "https://www.credly.com/badges/8f2a4a6d-676c-4859-aa5f-83a47bcadb5b"
+  badge: "https://images.credly.com/size/680x680/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"
 - type: certification
   name: DevNet Class 2020
   url: "https://www.credly.com/badges/949e0ea2-de84-4604-884e-3c85c4a9153d"
@@ -69,16 +76,12 @@ badges:
   url: "https://www.credly.com/badges/81f22f00-4cc3-42f3-81f3-8bd90a63566c"
   badge: "https://images.credly.com/size/340x340/images/e21e94f7-feec-4717-9687-ac150b213f64/Cisco_DevNetAsst_600.png"
 - type: certification
-  name: CCNP Routing and Switching
-  url: "https://www.credly.com/badges/2214239f-a2fe-44f6-ad58-8ae42188f7f9"
-  badge: "https://images.credly.com/size/680x680/images/39ceb13c-f278-44d7-aad3-61180c680045/cisco_ccdp.png"
-- type: certification
   name: CCNP SP
   url: "https://www.credly.com/badges/b21efdb5-3b8c-41a4-ade0-28d0b3faaf55"
   badge: "https://images.credly.com/size/340x340/images/e3ca7cd2-3de6-402d-9f66-fe4f7f0b9c34/cisco_ccnp_serviceprovider.png"
 - type: certification
-  name: CCDP
+  name: CCNP R&S
   url: "https://www.credly.com/badges/e29fbd4b-edaa-485b-8fdf-f07f166e1106"
   badge: "https://images.credly.com/size/340x340/images/706353b7-3a49-4e7b-80d6-ce80a597f580/cisco_ccnp_R_26S.png"
 
-#
+

@@ -11,6 +11,14 @@ section:
 
 # Your accomplishments
 accomplishments:
+- name: Kubernetes and Cloud Native Essentials (LFS250)
+  timeline: "August 2023"
+  organization:
+    name: Linux Foundation
+    url: https://training.linuxfoundation.org/training/kubernetes-and-cloud-native-essentials-lfs250/
+  #courseOverview: 
+  certificateURL: "files/lfs250.pdf"
+
 - name: Implementing Cisco Application Centric Infrastructure (DCACI)
   timeline: "March 2022"
   organization:

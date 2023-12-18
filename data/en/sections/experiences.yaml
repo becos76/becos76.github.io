@@ -10,15 +10,40 @@ section:
 
 # Your experiences
 experiences:
+#Kentik
+- company:
+    name: Kentik
+    url: "https://kentik.com"
+    location: working remotely as a member of the Revenue Team of THE network observability company
+    overview: Started as a support engineer and then moved to a customer facing role.
+  positions:
+  - designation: Customer Success Engineer
+    start: August 2023
+    
+    responsibilities:
+    - Ownership of Customer Accounts Lifecycle on technical issues
+    - Facilitating Customer Feature Requests and Use Cases adoption
+    - Delivering Customer Training
+
+  
+  - designation: Customer Support Engineer
+    start: August 2022
+    end: August 2023
+    responsibilities:
+    - Handling of customer support tickets within support SLAs
+    - Reproduction and verification of bugs and issues
+    - Ownership of customer cases and escalation to engineering and operations teams for proper resolution
+    
 #Cisco
 - company:
     name: Cisco
     url: "https://cisco.com"
-    location: We all know Cisco, right? @ CX EMEAR South Architectures, Greece
-    overview: Initially joined the Professional Services Management and Automation Systems Team of the Software and Automation for Service Providers division in Krakow CX delivery center, as a contractor and then was converted to a full time employee. Finally, moved to the Professional Services Datacenter & Cloud Team for a short period until I joined the CX EMEAR South Architectures Team in Greece.
+    location: We all know Cisco, right? @ CX EMEA South Architectures, Greece
+    overview: Initially joined the Professional Services Management and Automation Systems Team of the Software and Automation for Service Providers division in Krakow CX delivery center, as a contractor and then was converted to a full time employee. Finally, moved to the Professional Services Datacenter & Cloud Team for a short period until I joined the CX EMEA South Architectures Team in Greece.
   positions:
   - designation: Consutling Engineer
     start: March 2022
+    end: August 2022
     
     responsibilities:
     - Full project lifecycle delivery of Cisco ACI product
@@ -140,9 +165,10 @@ experiences:
     - Participated in the implementation and deployment team of Intracom’s IP-TV product “fs|cdn” for their clients in EMEAR
 #Self
 - company: 
-    name: ByteWise Solutions
-    url: "https://www.legalzoom.com/sites/lz.com/files/articles/articles_of_dissolution_-_how_to_close_a_business.jpg"
-    location: Self-owned IT services company @ Piraeus, Greece
+    name: ByteWise Network Services
+    #url: "https://www.legalzoom.com/sites/lz.com/files/articles/articles_of_dissolution_-_how_to_close_a_business.jpg"
+    url: "https://bytewise.me"
+    location: Self-owned IT services company @ varius places around Greece
     overview: In tandem with my daily job, I established a self-owned company in order to provide IT services to small businesses.
   positions:
   - designation: Freelance IT Contractor
